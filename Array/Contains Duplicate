@@ -1,0 +1,29 @@
+/**
+ * LC #217 - Contains Duplicate
+ * Link: https://leetcode.com/problems/contains-duplicate/
+ * Difficulty: Easy
+ * Pattern: HashSet
+ *
+ * Approach:
+ * Loop through array, check if current number already
+ * exists in HashSet. If yes → duplicate found.
+ * If no → add to HashSet and continue.
+ *
+ * Time:  O(n)
+ * Space: O(n)
+ *
+ * Key insight: HashSet gives O(1) lookup — no need for
+ * two loops. Trading space for time.
+ */
+class ContainsDuplicate {
+    public boolean containsDuplicate(int[] nums) {
+        HashSet<Integer> seen = new HashSet<>();
+        for (int i = 0; i < nums.length; i++) {
+            if (seen.contains(nums[i])) {
+                return true;
+            }
+            seen.add(nums[i]);
+        }
+        return false;
+    }
+}
