@@ -1,7 +1,7 @@
 # DSA Journey 🚀 — Siddharth Jain| VIT Bhopal
 
 > Documenting my journey from DSA zero 
-> Started: May 2025
+> Started: 2nd May 2025
 ---
 
 ## 🎯 Goal
