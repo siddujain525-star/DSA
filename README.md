@@ -11,13 +11,13 @@
 
 ## 📊 Progress
 
-**Problems solved: 2 / 107**  
-**Days completed: 1 / 60**  
-**Current streak: 1 day**
+**Problems solved: 3 / 107**  
+**Days completed: 2 / 60**  
+**Current streak: 2 day**
 
 | Week | Topic | Target | Solved |
 |------|-------|--------|--------|
-| Week 1–2 | Arrays, Strings, HashMap | 30 | 2 |
+| Week 1–2 | Arrays, Strings, HashMap | 30 | 3 |
 | Week 3–4 | Linked List, Stack, Recursion, Binary Search | 30 | 0 |
 | Week 5–6 | Trees, Graphs | 27 | 0 |
 | Week 7–8 | Heaps, DP, Revision | 20 | 0 |
