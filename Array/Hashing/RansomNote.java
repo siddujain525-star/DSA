@@ -15,7 +15,7 @@
  * Key insight: c - 'a' converts any lowercase char to index 0-25.
  * int[26] is preferred over HashMap when only lowercase letters involved.
  */
-class RansomNote {
+class Solution {
     public boolean canConstruct(String ransomNote, String magazine) {
         int[] count = new int[26];
 
@@ -31,3 +31,4 @@ class RansomNote {
         return true;
     }
 }
+
