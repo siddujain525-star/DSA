@@ -11,7 +11,7 @@
 
 ## 📊 Progress
 
-**Problems solved: 226 / 107**  
+**Problems solved: 26 / 107**  
 **Days completed: 17 / 60**  
 **Current streak: 17 days**
 
