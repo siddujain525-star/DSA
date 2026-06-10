@@ -11,9 +11,9 @@
 
 ## 📊 Progress
 
-**Problems solved: 51 / 107**  
-**Days completed: 39 / 60**  
-**Current streak: 39 days**
+**Problems solved: 52 / 107**  
+**Days completed: 40 / 60**  
+**Current streak: 40 days**
 
 | Week | Topic | Target | Solved |
 |------|-------|--------|--------|
