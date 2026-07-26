@@ -1,28 +1,38 @@
-# DSA Journey 🚀 — Siddharth Jain | VIT Bhopal
+# DSA Journey 🚀 — Siddharth Jain| VIT Bhopal
 
-> Started: May 2, 2025 | Semester 6 restart: July 2026
+> Documenting my journey from DSA zero 
+> Started: 2nd May 2025
+---
 
-## 🎯 Goals
-- 350+ problems by January 2027
-- Master 9 core DSA patterns
+## 🎯 Goal
+- Solve 107 curated problems in 60 days
+- Master 8 core DSA topics
+---
 
-## 📊 Current progress
+## 📊 Progress
 
-**Problems solved: 71 / 350**
-**Active days: 60+**
-**MAX Streak:42**
+**Problems solved: 71 / 107**  
+**Days completed: 60 / 60**  
+**Current streak: 52 days**
 
-
-| Step | Topic | Striver Step | Target | Solved | 
-| 1 | Arrays + Strings + HashMap | Step 3 | 50 | 45 | 
-| 2 | Binary Search | Step 4 | 15 | 0 |
-| 3 | Linked List | Step 6 | 20 | 2 | 
-| 4 | Stack + Queue | Step 9 | 20 | 0 | 
-| 5 | Recursion + Backtracking | Step 8 | 15 | 0 | 
-| 6 | Trees + BST | Step 7 | 25 | 15 | ⚠️ Partial |
-| 7 | Graphs BFS + DFS | Step 11 | 25 | 0 | 
-| 8 | Dynamic Programming | Step 13 | 30 | 0 | 
-| 9 | Heaps + Revision + Mock | Step 10 | 20 | 0 | 
+| Week | Topic | Target | Solved |
+|------|-------|--------|--------|
+| Week 1–2 | Arrays, Strings, HashMap | 30 | 45 |
+| Week 3–4 | Linked List, Stack, Recursion, Binary Search | 30 | 2 |
+| Week 5–6 | Trees, Graphs | 27 | 23(15) |
+| Week 7–8 | Heaps, DP, Revision | 20 | 0 |
 
 ---
 
+## ✅ Topics covered
+
+- [x] Big O — Time & Space Complexity
+- [ ] Arrays & sliding window
+- [ ] Strings & hashing
+- [ ] Linked lists
+- [ ] Stack & queue
+- [ ] Recursion & binary search
+- [ ] Binary trees & BST
+- [ ] Graphs (BFS / DFS)
+- [ ] Heaps & DP intro
+---
