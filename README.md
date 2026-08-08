@@ -12,15 +12,15 @@
 
 ## 📊 Progress
 
-**Problems solved: 77/ 350** 
+**Problems solved: 78/ 350** 
 **MAX streak: 52 days**
-**Days completed: 7 / 185**  
-**Current streak: 7 days**
+**Days completed: 8 / 185**  
+**Current streak: 8 days**
 
 | Week | Topic | Target | Solved |
 |------|-------|--------|--------|
 | Week 1| Arrays, Strings, HashMap | 50 | 46 |
-| Week 2| Binary serach + Trees  | 15 | 3 |
+| Week 2| Binary serach + Trees  | 15 | 4 |
 | Week 3–4 | Linked List | 20 | 2 |
 | Week 5–6 | Stack+queue | 20 | 0 |
 | Week 7 | Recursion + Backtracking | 15 | 0 |
