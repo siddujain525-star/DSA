@@ -2,7 +2,7 @@
 
 > Documenting my journey from DSA zero 
 > Started: 2nd May 2026
-> Restarted: 1ST AUg 2026
+> Restarted: 1ST Aug 2026
 ---
 
 ## 🎯 Goal
