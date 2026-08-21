@@ -14,8 +14,8 @@
 
 **Problems solved: 86/ 350** 
 **MAX streak: 52 days**
-**Days completed: 20 / 185**  
-**Current streak: 20 days**
+**Days completed: 21 / 185**  
+**Current streak: 21 days**
 
 | Week | Topic | Target | Solved |
 |------|-------|--------|--------|
