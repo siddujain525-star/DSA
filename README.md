@@ -12,10 +12,10 @@
 
 ## 📊 Progress
 
-**Problems solved: 90/ 350** 
+**Problems solved: 91/ 350** 
 **MAX streak: 52 days**
-**Days completed: 25 / 185**  
-**Current streak: 25 days**
+**Days completed: 26 / 185**  
+**Current streak: 26 days**
 
 | Week | Topic | Target | Solved |
 |------|-------|--------|--------|
