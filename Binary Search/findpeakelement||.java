@@ -1,4 +1,4 @@
-class Solution {
+class Solutionn {
     
     public int findMaxIndex(int[][] mat, int n, int m, int col) {
         int maxValue = -1;
