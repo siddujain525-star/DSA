@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 class Solution {
-    public int[] nextGreaterElement(int[] nums1, int[] nums2) {
+    public int[] nextGreaterElement1(int[] nums1, int[] nums2) {
         Map<Integer, Integer> map = new HashMap<>();
         Deque<Integer> stack = new ArrayDeque<>();
 
