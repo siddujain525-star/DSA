@@ -6,16 +6,16 @@
 ---
 
 ## 🎯 Goal
-- Solve 350 curated problems by January 2027
+- Solve 300 curated problems by March 2027
 - Master 9 core DSA topics
 ---
 
 ## 📊 Progress
 
-**Problems solved: 114/ 350** 
-**MAX streak: 61 days**
-**Days completed: 61 / 185**  
-**Current streak: 61 days**
+**Problems solved: 115/ 300** 
+**MAX streak: 62 days**
+**Days completed: 62 / 185**  
+**Current streak: 62 days**
 
 | Week | Topic | Target | Solved |
 |------|-------|--------|--------|
