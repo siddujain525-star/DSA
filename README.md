@@ -12,7 +12,7 @@
 
 ## 📊 Progress
 
-**Problems solved: 122/ 300** 
+**Problems solved: 121/ 300** 
 **MAX streak: 69 days**
 **Days completed: 69 / 185**  
 **Current streak: 69 days**
